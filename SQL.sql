@@ -89,9 +89,6 @@ CREATE TABLE table_name (
     ....
 );
 
-
-
-
 NOT NULL - Ensures that a column cannot have a NULL value
 UNIQUE - Ensures that all values in a column are different
 PRIMARY KEY - A combination of a NOT NULL and UNIQUE. Uniquely identifies each row in a table
